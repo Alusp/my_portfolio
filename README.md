@@ -95,7 +95,7 @@ Clone this repository to your desired folder:
 
 
 ```sh
-  cd my-folder
+  cd my_portfolio
   git clone https://github.com/Alusp/my_portfolio
 ```
  
@@ -106,7 +106,7 @@ Install this project with:
 
 
 ```sh
-  cd my-project
+  cd my_portfolio
   npm install
 ```
 
@@ -162,7 +162,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Alusp/my_portfolio/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
