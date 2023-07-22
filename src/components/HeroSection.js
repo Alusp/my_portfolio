@@ -101,7 +101,6 @@ const HeroSection = ({ nav, handleNav }) => {
           </span>
         </p>
         <p className="hero-desc">
-          a
           <span className="hero-desc-sub"> Full-Stack Developer.</span>
         </p>
       </motion.div>
